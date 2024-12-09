@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/a09052b9-76d3-467b-a6b1-c02fb8777fc9" alt="Description" width="200"/>
 </p>
 
-A small application that takes API data from osu.ppy and displays player stats for osu!.
+A small application that takes API data from osu.ppy and updates player stats that can be used within OBS or XSplit.
 
 ## How to Use
 
