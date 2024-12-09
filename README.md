@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="YrNNHfZ8-d3RXOYwVq2EEuSWoFgDJKQ_yZ26JDwUx-I" />
+
 # osuProfileScraper
 
 <p align="center">
